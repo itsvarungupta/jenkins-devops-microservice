@@ -9,6 +9,7 @@ pipeline {
 	stages{
 		stage('Checkout') {
 			steps{
+				echo "JAVA_HOME -$JAVA_HOME"
 				echo "PATH - $PATH"
 				sh 'mvn --version'
 				sh 'docker version'
