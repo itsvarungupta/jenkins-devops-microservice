@@ -141,6 +141,11 @@
         	<artifactId>groovy</artifactId>
         	<version>3.0.8</version>
     	</dependency>
+		<dependency>
+    		<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-jvm-deps</artifactId>
+    		<version>1.0.6</version>
+		</dependency>
 	</dependencies>
 	   
 
