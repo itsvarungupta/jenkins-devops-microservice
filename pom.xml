@@ -144,7 +144,7 @@
 		<dependency>
     		<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-jvm-deps</artifactId>
-    		<version>3.0.2</version>
+    		<version>1.0.6</version>
 		</dependency>
 	</dependencies>
 	   
